@@ -1,0 +1,15 @@
+{
+  "collectionsAssessmentInitiateActionRecord" : {},
+  "collectionsAssessmentCollectionsAssessmentServiceWorkProduct" : "collectionsAssessmentCollectionsAssessmentServiceWorkProduct",
+  "collectionsAssessmentPreconditions" : "collectionsAssessmentPreconditions",
+  "collectionsAssessmentBusinessUnitEmployeeReference" : "CABUR760177",
+  "collectionsAssessmentPostconditions" : "collectionsAssessmentPostconditions",
+  "collectionsAssessmentCollectionsAssessmentServiceName" : "collectionsAssessmentCollectionsAssessmentServiceName",
+  "collectionsAssessmentInitiateActionReference" : "CAIAR713652",
+  "collectionsAssessmentCollectionsAssessmentServiceDescription" : "collectionsAssessmentCollectionsAssessmentServiceDescription",
+  "collectionsAssessmentCollectionsAssessmentServiceType" : "collectionsAssessmentCollectionsAssessmentServiceType",
+  "collectionsAssessmentInstanceReference" : "CAIR735627",
+  "collectionsAssessmentWorkSchedule" : "collectionsAssessmentWorkSchedule",
+  "collectionsAssessmentCollectionsAssessmentServiceInputsandOuputs" : "collectionsAssessmentCollectionsAssessmentServiceInputsandOuputs",
+  "collectionsAssessmentInstanceStatus" : "collectionsAssessmentInstanceStatus"
+}

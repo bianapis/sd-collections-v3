@@ -1,0 +1,15 @@
+{
+  "collateralLiquidationCollateralLiquidationServiceWorkProduct" : "collateralLiquidationCollateralLiquidationServiceWorkProduct",
+  "collateralLiquidationInstanceStatus" : "collateralLiquidationInstanceStatus",
+  "collateralLiquidationWorkSchedule" : "collateralLiquidationWorkSchedule",
+  "collateralLiquidationCollateralLiquidationServiceInputsandOuputs" : "collateralLiquidationCollateralLiquidationServiceInputsandOuputs",
+  "collateralLiquidationInitiateActionReference" : "CLIAR763059",
+  "collateralLiquidationCollateralLiquidationServiceName" : "collateralLiquidationCollateralLiquidationServiceName",
+  "collateralLiquidationInstanceReference" : "CLIR790287",
+  "collateralLiquidationCollateralLiquidationServiceType" : "collateralLiquidationCollateralLiquidationServiceType",
+  "collateralLiquidationInitiateActionRecord" : {},
+  "collateralLiquidationBusinessUnitEmployeeReference" : "CLBUR708710",
+  "collateralLiquidationPostconditions" : "collateralLiquidationPostconditions",
+  "collateralLiquidationPreconditions" : "collateralLiquidationPreconditions",
+  "collateralLiquidationCollateralLiquidationServiceDescription" : "collateralLiquidationCollateralLiquidationServiceDescription"
+}

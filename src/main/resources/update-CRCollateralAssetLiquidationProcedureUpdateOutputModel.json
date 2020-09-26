@@ -1,0 +1,10 @@
+{
+  "collateralAssetLiquidationProcedureRequest" : "collateralAssetLiquidationProcedureRequest",
+  "collateralAssetLiquidationProcedureSelectedOption" : "collateralAssetLiquidationProcedureSelectedOption",
+  "collateralAssetLiquidationProcedureSchedule" : "collateralAssetLiquidationProcedureSchedule",
+  "collateralAssetLiquidationProcedureStatus" : "collateralAssetLiquidationProcedureStatus",
+  "collateralAssetLiquidationProcedureUpdateActionTaskReference" : "CALPUATR732136",
+  "updateResponseRecord" : {},
+  "collateralAssetLiquidationProcedureParameterType" : "collateralAssetLiquidationProcedureParameterType",
+  "collateralAssetLiquidationProcedureUpdateActionTaskRecord" : {}
+}

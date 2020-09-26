@@ -1,0 +1,15 @@
+{
+  "collateralValuationInitiateActionRecord" : {},
+  "collateralValuationBusinessUnitEmployeeReference" : "CVBUR723255",
+  "collateralValuationWorkSchedule" : "collateralValuationWorkSchedule",
+  "collateralValuationCollateralValuationServiceType" : "collateralValuationCollateralValuationServiceType",
+  "collateralValuationCollateralValuationServiceName" : "collateralValuationCollateralValuationServiceName",
+  "collateralValuationCollateralValuationServiceDescription" : "collateralValuationCollateralValuationServiceDescription",
+  "collateralValuationInstanceStatus" : "collateralValuationInstanceStatus",
+  "collateralValuationInstanceReference" : "CVIR769425",
+  "collateralValuationCollateralValuationServiceInputsandOuputs" : "collateralValuationCollateralValuationServiceInputsandOuputs",
+  "collateralValuationInitiateActionReference" : "CVIAR798769",
+  "collateralValuationCollateralValuationServiceWorkProduct" : "collateralValuationCollateralValuationServiceWorkProduct",
+  "collateralValuationPreconditions" : "collateralValuationPreconditions",
+  "collateralValuationPostconditions" : "collateralValuationPostconditions"
+}

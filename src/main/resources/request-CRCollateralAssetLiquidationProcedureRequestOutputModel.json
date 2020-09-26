@@ -1,0 +1,11 @@
+{
+  "collateralAssetLiquidationProcedureRequest" : "collateralAssetLiquidationProcedureRequest",
+  "requestRecordReference" : "RRR773202",
+  "collateralAssetLiquidationProcedureSelectedOption" : "collateralAssetLiquidationProcedureSelectedOption",
+  "collateralAssetLiquidationProcedureSchedule" : "collateralAssetLiquidationProcedureSchedule",
+  "collateralAssetLiquidationProcedureStatus" : "collateralAssetLiquidationProcedureStatus",
+  "collateralAssetLiquidationProcedureRequestActionTaskRecord" : {},
+  "collateralAssetLiquidationProcedureRequestActionTaskReference" : "CALPRATR768240",
+  "collateralAssetLiquidationProcedureParameterType" : "collateralAssetLiquidationProcedureParameterType",
+  "requestResponseRecord" : {}
+}

@@ -1,0 +1,14 @@
+{
+  "collectionsAssessmentCollectionsAssessmentServiceName" : "collectionsAssessmentCollectionsAssessmentServiceName",
+  "collectionsAssessmentCollectionsAssessmentServiceDescription" : "collectionsAssessmentCollectionsAssessmentServiceDescription",
+  "collectionsAssessmentUpdateActionTaskRecord" : {},
+  "collectionsAssessmentCollectionsAssessmentServiceType" : "collectionsAssessmentCollectionsAssessmentServiceType",
+  "updateResponseRecord" : {},
+  "collectionsAssessmentCollectionsAssessmentServiceWorkProduct" : "collectionsAssessmentCollectionsAssessmentServiceWorkProduct",
+  "collectionsAssessmentPreconditions" : "collectionsAssessmentPreconditions",
+  "collectionsAssessmentWorkSchedule" : "collectionsAssessmentWorkSchedule",
+  "collectionsAssessmentCollectionsAssessmentServiceInputsandOuputs" : "collectionsAssessmentCollectionsAssessmentServiceInputsandOuputs",
+  "collectionsAssessmentBusinessUnitEmployeeReference" : "CABUR710511",
+  "collectionsAssessmentPostconditions" : "collectionsAssessmentPostconditions",
+  "collectionsAssessmentUpdateActionTaskReference" : "CAUATR700075"
+}

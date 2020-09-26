@@ -1,0 +1,26 @@
+{
+  "collectionsAccountUpdateCollectionsAccountUpdateServiceInputsandOuputs" : "collectionsAccountUpdateCollectionsAccountUpdateServiceInputsandOuputs",
+  "collectionsAccountUpdateCollectionsAccountUpdateServiceName" : "collectionsAccountUpdateCollectionsAccountUpdateServiceName",
+  "collectionsAccountUpdateInstanceAnalysis" : {
+    "collectionsAccountUpdateInstanceAnalysisReportType" : "collectionsAccountUpdateInstanceAnalysisReportType",
+    "collectionsAccountUpdateInstanceAnalysisReport" : {},
+    "collectionsAccountUpdateInstanceAnalysisParameters" : "collectionsAccountUpdateInstanceAnalysisParameters",
+    "collectionsAccountUpdateInstanceAnalysisRecord" : {}
+  },
+  "collectionsAccountUpdatePreconditions" : "collectionsAccountUpdatePreconditions",
+  "collectionsAccountUpdateRetrieveActionTaskRecord" : {},
+  "collectionsAccountUpdateRetrieveActionResponse" : "collectionsAccountUpdateRetrieveActionResponse",
+  "collectionsAccountUpdateCollectionsAccountUpdateServiceType" : "collectionsAccountUpdateCollectionsAccountUpdateServiceType",
+  "collectionsAccountUpdateCollectionsAccountUpdateServiceWorkProduct" : "collectionsAccountUpdateCollectionsAccountUpdateServiceWorkProduct",
+  "collectionsAccountUpdateBusinessUnitEmployeeReference" : "CAUBUR703062",
+  "collectionsAccountUpdateRetrieveActionTaskReference" : "CAURATR753044",
+  "collectionsAccountUpdateInstanceReport" : {
+    "collectionsAccountUpdateInstanceReportRecord" : {},
+    "collectionsAccountUpdateInstanceReportParameters" : "collectionsAccountUpdateInstanceReportParameters",
+    "collectionsAccountUpdateInstanceReport" : {},
+    "collectionsAccountUpdateInstanceReportType" : "collectionsAccountUpdateInstanceReportType"
+  },
+  "collectionsAccountUpdatePostconditions" : "collectionsAccountUpdatePostconditions",
+  "collectionsAccountUpdateWorkSchedule" : "collectionsAccountUpdateWorkSchedule",
+  "collectionsAccountUpdateCollectionsAccountUpdateServiceDescription" : "collectionsAccountUpdateCollectionsAccountUpdateServiceDescription"
+}

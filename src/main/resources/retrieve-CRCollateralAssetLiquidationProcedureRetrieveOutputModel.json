@@ -1,0 +1,34 @@
+{
+  "collateralAssetLiquidationProcedureType" : "collateralAssetLiquidationProcedureType",
+  "collateralAssetLiquidationProcedureTransactionType" : "collateralAssetLiquidationProcedureTransactionType",
+  "collateralAssetLiquidationProcedureProductandServiceType" : "collateralAssetLiquidationProcedureProductandServiceType",
+  "collateralAssetLiquidationProcedureSchedule" : "collateralAssetLiquidationProcedureSchedule",
+  "collateralAssetLiquidationProcedureStatus" : "collateralAssetLiquidationProcedureStatus",
+  "collateralAssetLiquidationProcedureReference" : "CALPR728072",
+  "collateralAssetLiquidationProcedureServiceProviderReference" : "CALPSR772988",
+  "collateralAssetLiquidationProcedureEmployeeReference" : "CALPER772225",
+  "collateralAssetLiquidationProcedureRetrieveActionResponse" : "collateralAssetLiquidationProcedureRetrieveActionResponse",
+  "collateralAssetLiquidationProcedureServiceProviderSchedule" : "collateralAssetLiquidationProcedureServiceProviderSchedule",
+  "collateralAssetLiquidationProcedureCustomerReference" : "CALPCR714662",
+  "collateralAssetLiquidationProcedureServiceType" : "collateralAssetLiquidationProcedureServiceType",
+  "collateralAssetLiquidationProcedureCustomerAgreementReference" : "CALPCAR732487",
+  "collateralAssetLiquidationProcedureFinancialFacilityReference" : "CALPFFR789695",
+  "collateralAssetLiquidationProcedureProductandServiceInstance" : "collateralAssetLiquidationProcedureProductandServiceInstance",
+  "collateralAssetLiquidationProcedureRequest" : "collateralAssetLiquidationProcedureRequest",
+  "collateralAssetLiquidationProcedureInstanceAnalysis" : {
+    "collateralAssetLiquidationProcedureInstanceAnalysisReportType" : "collateralAssetLiquidationProcedureInstanceAnalysisReportType",
+    "collateralAssetLiquidationProcedureInstanceAnalysisData" : "collateralAssetLiquidationProcedureInstanceAnalysisData",
+    "collateralAssetLiquidationProcedureInstanceAnalysisReport" : {}
+  },
+  "collateralAssetLiquidationProcedureRetrieveActionTaskReference" : "CALPRATR796946",
+  "collateralAssetLiquidationProcedureSelectedOption" : "collateralAssetLiquidationProcedureSelectedOption",
+  "collateralAssetLiquidationProcedureInstanceReportRecord" : {
+    "collateralAssetLiquidationProcedureInstanceReportType" : "collateralAssetLiquidationProcedureInstanceReportType",
+    "collateralAssetLiquidationProcedureInstanceReportData" : "collateralAssetLiquidationProcedureInstanceReportData",
+    "collateralAssetLiquidationProcedureInstanceReport" : {}
+  },
+  "collateralAssetLiquidationProcedureParameterType" : "collateralAssetLiquidationProcedureParameterType",
+  "collateralAssetLiquidationProcedureFinancialTransactionArrangement" : "collateralAssetLiquidationProcedureFinancialTransactionArrangement",
+  "collateralAssetLiquidationProcedureRetrieveActionTaskRecord" : {},
+  "collateralAssetLiquidationProcedureBusinessUnitReference" : "CALPBUR723235"
+}

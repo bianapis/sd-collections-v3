@@ -1,0 +1,21 @@
+{
+  "collectionsConfigurationActionTaskReference" : "SCATR765419",
+  "collectionsConfigurationActionTaskRecord" : {},
+  "collectionsServiceConfigurationRecord" : {
+    "collectionsServiceAgreement" : {
+      "collectionsServiceAgreementTermsandConditions" : "collectionsServiceAgreementTermsandConditions",
+      "collectionsServiceAgreementReference" : "721156",
+      "collectionsServiceUserReference" : "733696"
+    },
+    "collectionsServiceConfigurationSettingDescription" : "collectionsServiceConfigurationSettingDescription",
+    "collectionsServiceConfigurationSetup" : {
+      "collectionsServiceConfigurationParameter" : "collectionsServiceConfigurationParameter"
+    },
+    "collectionsServiceStatus" : "collectionsServiceStatus",
+    "collectionsServiceSubscription" : {
+      "collectionsServiceSubscriberAccessProfile" : "collectionsServiceSubscriberAccessProfile",
+      "collectionsServiceSubscriberReference" : "756221"
+    }
+  },
+  "collectionsServicingSessionStatus" : "collectionsServicingSessionStatus"
+}

@@ -1,0 +1,26 @@
+{
+  "collateralValuationRetrieveActionTaskRecord" : {},
+  "collateralValuationBusinessUnitEmployeeReference" : "CVBUR702477",
+  "collateralValuationWorkSchedule" : "collateralValuationWorkSchedule",
+  "collateralValuationCollateralValuationServiceType" : "collateralValuationCollateralValuationServiceType",
+  "collateralValuationCollateralValuationServiceName" : "collateralValuationCollateralValuationServiceName",
+  "collateralValuationInstanceReport" : {
+    "collateralValuationInstanceReportType" : "collateralValuationInstanceReportType",
+    "collateralValuationInstanceReport" : {},
+    "collateralValuationInstanceReportParameters" : "collateralValuationInstanceReportParameters",
+    "collateralValuationInstanceReportRecord" : {}
+  },
+  "collateralValuationCollateralValuationServiceDescription" : "collateralValuationCollateralValuationServiceDescription",
+  "collateralValuationRetrieveActionTaskReference" : "CVRATR710666",
+  "collateralValuationInstanceAnalysis" : {
+    "collateralValuationInstanceAnalysisReport" : {},
+    "collateralValuationInstanceAnalysisRecord" : {},
+    "collateralValuationInstanceAnalysisParameters" : "collateralValuationInstanceAnalysisParameters",
+    "collateralValuationInstanceAnalysisReportType" : "collateralValuationInstanceAnalysisReportType"
+  },
+  "collateralValuationCollateralValuationServiceInputsandOuputs" : "collateralValuationCollateralValuationServiceInputsandOuputs",
+  "collateralValuationCollateralValuationServiceWorkProduct" : "collateralValuationCollateralValuationServiceWorkProduct",
+  "collateralValuationRetrieveActionResponse" : "collateralValuationRetrieveActionResponse",
+  "collateralValuationPreconditions" : "collateralValuationPreconditions",
+  "collateralValuationPostconditions" : "collateralValuationPostconditions"
+}

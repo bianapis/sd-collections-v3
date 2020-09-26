@@ -1,0 +1,26 @@
+{
+  "collectionsAssessmentCollectionsAssessmentServiceWorkProduct" : "collectionsAssessmentCollectionsAssessmentServiceWorkProduct",
+  "collectionsAssessmentPreconditions" : "collectionsAssessmentPreconditions",
+  "collectionsAssessmentRetrieveActionTaskRecord" : {},
+  "collectionsAssessmentBusinessUnitEmployeeReference" : "CABUR766534",
+  "collectionsAssessmentPostconditions" : "collectionsAssessmentPostconditions",
+  "collectionsAssessmentRetrieveActionTaskReference" : "CARATR766495",
+  "collectionsAssessmentCollectionsAssessmentServiceName" : "collectionsAssessmentCollectionsAssessmentServiceName",
+  "collectionsAssessmentCollectionsAssessmentServiceDescription" : "collectionsAssessmentCollectionsAssessmentServiceDescription",
+  "collectionsAssessmentCollectionsAssessmentServiceType" : "collectionsAssessmentCollectionsAssessmentServiceType",
+  "collectionsAssessmentWorkSchedule" : "collectionsAssessmentWorkSchedule",
+  "collectionsAssessmentCollectionsAssessmentServiceInputsandOuputs" : "collectionsAssessmentCollectionsAssessmentServiceInputsandOuputs",
+  "collectionsAssessmentRetrieveActionResponse" : "collectionsAssessmentRetrieveActionResponse",
+  "collectionsAssessmentInstanceReport" : {
+    "collectionsAssessmentInstanceReportRecord" : {},
+    "collectionsAssessmentInstanceReportType" : "collectionsAssessmentInstanceReportType",
+    "collectionsAssessmentInstanceReportParameters" : "collectionsAssessmentInstanceReportParameters",
+    "collectionsAssessmentInstanceReport" : {}
+  },
+  "collectionsAssessmentInstanceAnalysis" : {
+    "collectionsAssessmentInstanceAnalysisReportType" : "collectionsAssessmentInstanceAnalysisReportType",
+    "collectionsAssessmentInstanceAnalysisReport" : {},
+    "collectionsAssessmentInstanceAnalysisRecord" : {},
+    "collectionsAssessmentInstanceAnalysisParameters" : "collectionsAssessmentInstanceAnalysisParameters"
+  }
+}

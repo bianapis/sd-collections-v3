@@ -1,0 +1,26 @@
+{
+  "collateralLiquidationCollateralLiquidationServiceWorkProduct" : "collateralLiquidationCollateralLiquidationServiceWorkProduct",
+  "collateralLiquidationWorkSchedule" : "collateralLiquidationWorkSchedule",
+  "collateralLiquidationCollateralLiquidationServiceInputsandOuputs" : "collateralLiquidationCollateralLiquidationServiceInputsandOuputs",
+  "collateralLiquidationCollateralLiquidationServiceName" : "collateralLiquidationCollateralLiquidationServiceName",
+  "collateralLiquidationInstanceAnalysis" : {
+    "collateralLiquidationInstanceAnalysisReport" : {},
+    "collateralLiquidationInstanceAnalysisRecord" : {},
+    "collateralLiquidationInstanceAnalysisParameters" : "collateralLiquidationInstanceAnalysisParameters",
+    "collateralLiquidationInstanceAnalysisReportType" : "collateralLiquidationInstanceAnalysisReportType"
+  },
+  "collateralLiquidationCollateralLiquidationServiceType" : "collateralLiquidationCollateralLiquidationServiceType",
+  "collateralLiquidationInstanceReport" : {
+    "collateralLiquidationInstanceReportRecord" : {},
+    "collateralLiquidationInstanceReportType" : "collateralLiquidationInstanceReportType",
+    "collateralLiquidationInstanceReport" : {},
+    "collateralLiquidationInstanceReportParameters" : "collateralLiquidationInstanceReportParameters"
+  },
+  "collateralLiquidationBusinessUnitEmployeeReference" : "CLBUR781385",
+  "collateralLiquidationRetrieveActionTaskRecord" : {},
+  "collateralLiquidationPostconditions" : "collateralLiquidationPostconditions",
+  "collateralLiquidationPreconditions" : "collateralLiquidationPreconditions",
+  "collateralLiquidationRetrieveActionResponse" : "collateralLiquidationRetrieveActionResponse",
+  "collateralLiquidationRetrieveActionTaskReference" : "CLRATR734207",
+  "collateralLiquidationCollateralLiquidationServiceDescription" : "collateralLiquidationCollateralLiquidationServiceDescription"
+}

@@ -1,0 +1,24 @@
+{
+  "collectionsServicingSessionRecord" : {},
+  "collectionsActivationActionTaskRecord" : {},
+  "collectionsServiceConfigurationRecord" : {
+    "collectionsServiceConfigurationSettingReference" : "700761",
+    "collectionsServiceAgreement" : {
+      "collectionsServiceAgreementTermsandConditions" : "collectionsServiceAgreementTermsandConditions",
+      "collectionsServiceAgreementReference" : "791202",
+      "collectionsServiceUserReference" : "767210"
+    },
+    "collectionsServiceConfigurationSettingDescription" : "collectionsServiceConfigurationSettingDescription",
+    "collectionsServiceConfigurationSetup" : {
+      "collectionsServiceConfigurationParameter" : "collectionsServiceConfigurationParameter"
+    },
+    "collectionsServiceStatus" : "collectionsServiceStatus",
+    "collectionsServiceSubscription" : {
+      "collectionsServiceSubscriberAccessProfile" : "collectionsServiceSubscriberAccessProfile",
+      "collectionsServiceSubscriberReference" : "769192"
+    }
+  },
+  "collectionsServicingSessionStatus" : "collectionsServicingSessionStatus",
+  "collectionsServicingSessionReference" : "SSSR783215",
+  "collectionsActivationActionTaskReference" : "SAATR758836"
+}

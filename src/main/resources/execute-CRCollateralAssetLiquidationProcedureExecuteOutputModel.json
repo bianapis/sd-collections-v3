@@ -1,0 +1,11 @@
+{
+  "collateralAssetLiquidationProcedureRequest" : "collateralAssetLiquidationProcedureRequest",
+  "executeRecordReference" : "ERR758790",
+  "collateralAssetLiquidationProcedureSelectedOption" : "collateralAssetLiquidationProcedureSelectedOption",
+  "collateralAssetLiquidationProcedureSchedule" : "collateralAssetLiquidationProcedureSchedule",
+  "collateralAssetLiquidationProcedureStatus" : "collateralAssetLiquidationProcedureStatus",
+  "executeResponseRecord" : {},
+  "collateralAssetLiquidationProcedureExecuteActionTaskRecord" : {},
+  "collateralAssetLiquidationProcedureParameterType" : "collateralAssetLiquidationProcedureParameterType",
+  "collateralAssetLiquidationProcedureExecuteActionTaskReference" : "CALPEATR704487"
+}

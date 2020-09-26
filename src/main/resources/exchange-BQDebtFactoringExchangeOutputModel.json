@@ -1,0 +1,14 @@
+{
+  "debtFactoringWorkSchedule" : "debtFactoringWorkSchedule",
+  "debtFactoringPostconditions" : "debtFactoringPostconditions",
+  "debtFactoringPreconditions" : "debtFactoringPreconditions",
+  "debtFactoringBusinessUnitEmployeeReference" : "DFBUR744033",
+  "debtFactoringExchangeActionResponse" : "debtFactoringExchangeActionResponse",
+  "debtFactoringExchangeActionTaskReference" : "DFEATR750455",
+  "debtFactoringFactoringServiceDescription" : "debtFactoringFactoringServiceDescription",
+  "debtFactoringExchangeActionTaskRecord" : {},
+  "debtFactoringFactoringServiceInputsandOuputs" : "debtFactoringFactoringServiceInputsandOuputs",
+  "debtFactoringInstanceStatus" : "debtFactoringInstanceStatus",
+  "debtFactoringFactoringServiceWorkProduct" : "debtFactoringFactoringServiceWorkProduct",
+  "debtFactoringFactoringServiceType" : "debtFactoringFactoringServiceType"
+}

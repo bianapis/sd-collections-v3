@@ -1,0 +1,14 @@
+{
+  "collateralValuationBusinessUnitEmployeeReference" : "CVBUR737508",
+  "collateralValuationCollateralValuationServiceInputsandOuputs" : "collateralValuationCollateralValuationServiceInputsandOuputs",
+  "collateralValuationUpdateActionTaskReference" : "CVUATR719996",
+  "collateralValuationCollateralValuationServiceWorkProduct" : "collateralValuationCollateralValuationServiceWorkProduct",
+  "collateralValuationWorkSchedule" : "collateralValuationWorkSchedule",
+  "collateralValuationCollateralValuationServiceType" : "collateralValuationCollateralValuationServiceType",
+  "collateralValuationCollateralValuationServiceName" : "collateralValuationCollateralValuationServiceName",
+  "updateResponseRecord" : {},
+  "collateralValuationCollateralValuationServiceDescription" : "collateralValuationCollateralValuationServiceDescription",
+  "collateralValuationPreconditions" : "collateralValuationPreconditions",
+  "collateralValuationPostconditions" : "collateralValuationPostconditions",
+  "collateralValuationUpdateActionTaskRecord" : {}
+}

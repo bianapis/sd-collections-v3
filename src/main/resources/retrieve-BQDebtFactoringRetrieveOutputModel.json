@@ -1,0 +1,25 @@
+{
+  "debtFactoringWorkSchedule" : "debtFactoringWorkSchedule",
+  "debtFactoringPostconditions" : "debtFactoringPostconditions",
+  "debtFactoringPreconditions" : "debtFactoringPreconditions",
+  "debtFactoringRetrieveActionResponse" : "debtFactoringRetrieveActionResponse",
+  "debtFactoringInstanceAnalysis" : {
+    "debtFactoringInstanceAnalysisReportType" : "debtFactoringInstanceAnalysisReportType",
+    "debtFactoringInstanceAnalysisRecord" : {},
+    "debtFactoringInstanceAnalysisParameters" : "debtFactoringInstanceAnalysisParameters",
+    "debtFactoringInstanceAnalysisReport" : {}
+  },
+  "debtFactoringFactoringServiceDescription" : "debtFactoringFactoringServiceDescription",
+  "debtFactoringFactoringServiceInputsandOuputs" : "debtFactoringFactoringServiceInputsandOuputs",
+  "debtFactoringRetrieveActionTaskReference" : "DFRATR715234",
+  "debtFactoringInstanceReport" : {
+    "debtFactoringInstanceReportRecord" : {},
+    "debtFactoringInstanceReportType" : "debtFactoringInstanceReportType",
+    "debtFactoringInstanceReport" : {},
+    "debtFactoringInstanceReportParameters" : "debtFactoringInstanceReportParameters"
+  },
+  "debtFactoringBusinessUnitEmployeeReference" : "DFBUR733977",
+  "debtFactoringRetrieveActionTaskRecord" : {},
+  "debtFactoringFactoringServiceWorkProduct" : "debtFactoringFactoringServiceWorkProduct",
+  "debtFactoringFactoringServiceType" : "debtFactoringFactoringServiceType"
+}

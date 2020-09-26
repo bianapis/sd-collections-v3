@@ -1,0 +1,11 @@
+{
+  "collateralAssetLiquidationProcedureInstanceReference" : "CALPIR791445",
+  "collateralAssetLiquidationProcedureRequest" : "collateralAssetLiquidationProcedureRequest",
+  "collateralAssetLiquidationProcedureSelectedOption" : "collateralAssetLiquidationProcedureSelectedOption",
+  "collateralAssetLiquidationProcedureSchedule" : "collateralAssetLiquidationProcedureSchedule",
+  "collateralAssetLiquidationProcedureStatus" : "collateralAssetLiquidationProcedureStatus",
+  "collateralAssetLiquidationProcedureParameterType" : "collateralAssetLiquidationProcedureParameterType",
+  "collateralAssetLiquidationProcedureInitiateActionRecord" : {},
+  "collateralAssetLiquidationProcedureInitiateActionReference" : "CALPIAR771963",
+  "collateralAssetLiquidationProcedureInstanceStatus" : "collateralAssetLiquidationProcedureInstanceStatus"
+}
